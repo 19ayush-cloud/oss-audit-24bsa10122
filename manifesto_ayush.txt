@@ -2,8 +2,8 @@
          MY OPEN SOURCE MANIFESTO                      
 =======================================================
 
-Author : Hardik Agarwal
-Date   : 30 March 2026
+Author : ayush gupta
+Date   : 31 March 2026
 
 -------------------------------------------------------
 
@@ -28,5 +28,5 @@ Open source is not just a licensing model.
 It is an argument about how the world should work.
 
 -------------------------------------------------------
-Signed: Hardik Agarwal | 30 March 2026
+Signed: ayush gupta | 31 March 2026
 =======================================================
